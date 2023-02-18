@@ -6,7 +6,7 @@
 - 📫 How to reach me: mixquiacmorales@gmail.com
 
 
--If I don't know how to do something, give me 3 days and I'll make it possible
+ - ¬¬¬~**If I don't know how to do something, give me 3 days and I'll make it possible**~¬¬¬
 
 <!---
 MixqMo/MixqMo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
