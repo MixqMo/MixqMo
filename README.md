@@ -60,6 +60,7 @@ Estoy estudiando Ingeniería en Ciencias y Sistemas en la Universidad de San Car
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
  </p>
-### Profile Views:
-  ### 
-![Visitor Count](https://profile-counter.glitch.me/{mixqmo}/count.svg)
+
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
