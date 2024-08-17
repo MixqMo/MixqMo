@@ -62,5 +62,5 @@ Estoy estudiando Ingeniería en Ciencias y Sistemas en la Universidad de San Car
  </p>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mixqmo/count.svg)
 
